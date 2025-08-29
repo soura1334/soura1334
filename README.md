@@ -1,7 +1,3 @@
-###
-<img width="597" height="250" alt="image" src="https://github.com/user-attachments/assets/27cb207a-0876-4d44-96f4-ecfcd5a8ed40" />
-
-###
 <div align="center">
   <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" alt="Hacker Cat" width="400"/>
 </div>
@@ -17,7 +13,7 @@
 <div align="center">
  
  🔭 Currently exploring **Backend Development**  
- 💬 Ask me about anything **[here](https://github.com/sayanChaterjee/sayanChaterjee/issues)**  
+ 💬 Ask me about anything **[here](https://github.com/soura1334/soura1334/issues)**  
 
 </div>
 
@@ -61,8 +57,7 @@
 
 <hr/>
 
-###
 <!-- ✅ Spiderman GIF at the very end -->
 <div align="center">
-  <img src="https://gifdb.com/images/thumbnail/miles-morales-spiderman-jumping-over-tall-building-gxq9d07l3ke34t7t.gif?raw=true" alt="Spiderman" width="400"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRkcmwya3A2OWF1ZmJoODdiNnlpOHBuNmZocW4wN3EzZ3M0dnhzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yk211oEXnbpH00Tgv3/giphy.gif" alt="Spiderman" width="900" height="400"/>
 </div>
