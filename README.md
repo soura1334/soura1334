@@ -1,5 +1,7 @@
+###
 <img width="597" height="250" alt="image" src="https://github.com/user-attachments/assets/27cb207a-0876-4d44-96f4-ecfcd5a8ed40" />
 
+###
 <div align="center">
   <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" alt="Hacker Cat" width="400"/>
 </div>
@@ -52,16 +54,15 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=soura1334&count_private=true&theme=react&hide_border=true" alt="streak stats"/>
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=soura1334&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true" />
-  <br/>
-  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=soura1334&theme=rose_pine&hide_border=true&layout=compact&langs_count=8" alt="top langs" />
+  <img height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=soura1334&count_private=true&theme=react&hide_border=true" alt="streak stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=soura1334&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soura1334&theme=rose_pine&hide_border=true&layout=compact&langs_count=8" alt="top langs" />
 </div>
 
-<br />
 <hr/>
 
+###
 <!-- ✅ Spiderman GIF at the very end -->
 <div align="center">
-  <img src="https://gifdb.com/images/thumbnail/miles-morales-spiderman-jumping-over-tall-building-gxq9d07l3ke34t7t.gif" alt="Spiderman"/>
+  <img src="https://gifdb.com/images/thumbnail/miles-morales-spiderman-jumping-over-tall-building-gxq9d07l3ke34t7t.gif?raw=true" alt="Spiderman" width="400"/>
 </div>
