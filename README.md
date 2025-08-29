@@ -45,12 +45,6 @@
 
 <hr/>
 
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=soura1334&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
