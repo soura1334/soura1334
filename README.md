@@ -13,8 +13,7 @@ I’m currently exploring Full-Stack Development
 ![Stats](https://github-readme-stats.vercel.app/api?username=soura1334&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soura1334&layout=compact&theme=radical)
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/soura1334/soura1334/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/soura1334/soura1334/blob/output/snake.svg)
 
 ## 🔥 Projects
 - [Forecastify](https://github.com/soura1334/Forecastify) – Real-time weather dashboard.
