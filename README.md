@@ -1,7 +1,7 @@
 # Hi there, I'm Sourajeet 👋
 
 ## 🚀 About Me
--  I’m currently exploring Full-Stack Development
+I’m currently exploring Full-Stack Development
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
