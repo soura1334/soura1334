@@ -12,7 +12,7 @@
  
  🔭 I’m currently exploring **Backend Development**
 
-💬 Ask me about anything [here](https://github.com/sayanChaterjee/sayanChaterjee/issues)**
+💬 Ask me about anything **[here](https://github.com/sayanChaterjee/sayanChaterjee/issues)**
 
  </div>
 
