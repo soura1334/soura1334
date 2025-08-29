@@ -50,9 +50,9 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=soura1334&count_private=true&theme=react&hide_border=true" alt="streak stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=soura1334&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soura1334&theme=rose_pine&hide_border=true&layout=compact&langs_count=8" alt="top langs" />
+  <img height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=soura1334&count_private=true&theme=react&&disable_animations=falsehide_border=true" alt="streak stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=soura1334&theme=rose_pine&hide_border=true&disable_animations=false&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soura1334&theme=rose_pine&hide_border=true&disable_animations=false&layout=compact&langs_count=8" alt="top langs" />
 </div>
 
 <hr/>
