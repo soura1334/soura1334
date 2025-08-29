@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://media.tenor.com/Th1kA-8TQxIAAAAd/ghostedvpn-hacker-cat.gif" alt="Hacker Cat" width="400"/>
+  <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" alt="Hacker Cat" width="400"/>
 </div>
-
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=soura1334.soura1334" />
 
