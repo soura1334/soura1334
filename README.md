@@ -17,8 +17,6 @@
 
 </div>
 
-# 🏆 GitHub Trophies
-<img src="https://github-trophies.vercel.app/?username=soura1334&theme=onestar&no-frame=true" width="800"/>
 
 <div align="center"> 
   <a href="mailto:sourajeet1334@gmail.com" target="_blank">
@@ -28,6 +26,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+<hr />
+
+# 🏆 GitHub Trophies
+<img src="https://github-trophies.vercel.app/?username=soura1334&theme=darkhub&no-frame=true" width="800"/>
 
 <hr/>
 
@@ -78,6 +81,7 @@
 <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-663399?style=for-the-badge&logo=redux&logoColor=white" />
 
 <br/>
 <hr/>
