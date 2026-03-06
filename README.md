@@ -17,6 +17,9 @@
 
 </div>
 
+# 🏆 GitHub Trophies
+<img src="https://github-trophies.vercel.app/?username=soura1334&theme=onestar&no-frame=true" width="800"/>
+
 <div align="center"> 
   <a href="mailto:sourajeet1334@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
